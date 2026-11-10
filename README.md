@@ -21,11 +21,11 @@ I’ve supported clients across industries such as oilfield services, manufactur
 |Company | Role| Dates |
 |:---|:---|:---:| 
 | Qixas Group|Senior Developer| Jul 2026 - Present| 
-| BDO Digital |Manager | Jan 2024 - Apr 2026 |
-| BDO Lixar |Development team Lead | Jan 2023 - Jan 2024 |
-| BDO Canada |Senior Consultant | Aug 2009 - Dec 2022 |
-| Bell Canada |Senior Developer / Team Leader| May 2006 - Jul 2009 |
-|Bell Business Solutions| Senior Developer | 2005 – 2006|
-|CSB Systems |Senior Developer | 2004 – 2005|
-|CSB Systems | Developer | 2001 – 2004|
-|Central Software | Developer | 1999-2001|
+| BDO Digital | Manager | Jan 2024 - Apr 2026 |
+| BDO Lixar | Development Team Lead | Jan 2023 - Jan 2024 |
+| BDO Canada | Senior Consultant | Aug 2009 - Dec 2022 |
+| Bell Canada | Senior Developer / Team Leader | May 2006 - Jul 2009 |
+| Bell Business Solutions| Senior Developer | 2005 – 2006 |
+| CSB Systems | Senior Developer | 2004 – 2005 |
+| CSB Systems | Developer | 2001 – 2004 |
+| Central Software | Developer | 1999 - 2001 |
