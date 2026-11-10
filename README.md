@@ -18,7 +18,7 @@ I’ve supported clients across industries such as oilfield services, manufactur
 
 ## Experience
 
-|Company | role| Dates |
+|Company | Role| Dates |
 |:---|:---|:---:| 
 | Qixas Group|Senior Developer| Jul 2026 - Present| 
 | BDO Lixar |Manager | Jan 2024 - Apr 2026 |
