@@ -9,12 +9,12 @@ I’m deeply comfortable in both legacy NAV and modern BC SaaS environments, wit
 I’ve supported clients across industries such as oilfield services, manufacturing, and not‑for‑profit, and I’m known for quickly understanding business requirements and translating them into stable, scalable technical solutions.
 
 ## Technical strengths
-• AL & CAL development, extension architecture
-• Business Central On-Premise and SaaS administration
-• ERP upgrades, migrations, hybrid CAL/AL modernization 
-• SQL Server, performance tuning, data troubleshooting 
-• ISV integrations: Serenic Payroll, DocumentPath, DimensionPath 
-• Multi‑client support operations & complex incident resolution
+- AL & CAL development, extension architecture
+-  Business Central On-Premise and SaaS administration
+-  RP upgrades, migrations, hybrid CAL/AL modernization 
+- SQL Server, performance tuning, data troubleshooting 
+- ISV integrations: Serenic Payroll, DocumentPath, DimensionPath 
+- Multi‑client support operations & complex incident resolution
 
 ## Experience
 
